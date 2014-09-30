@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hola Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Ingrese Nombre</string>
+    <string name="hola">hola</string>
+    <string name="title_activity_frm_saludo">Frame de Saludo</string>
+
+</resources>
